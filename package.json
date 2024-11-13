@@ -1,14 +1,14 @@
 {
-  "name": "quicknodelistner",
+  "name": "solmagic",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "http": "^0.0.1-security"
+    "ws": "^8.18.0"
   }
 }
